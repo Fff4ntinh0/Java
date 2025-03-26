@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.AbstractMap.SimpleEntry;
@@ -117,10 +116,5 @@ public class Main {
         double result = Math.pow(a, b);
         System.out.println("Result is: " + result);
         return result;
-=======
-public class Main {
-    public static void main(String[] args) {
-
->>>>>>> 1939000c841f5701b3754b2c6eccd8737f2f0356
     }
 }
